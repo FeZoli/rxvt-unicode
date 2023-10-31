@@ -394,7 +394,7 @@ rxvt_term::scr_reset ()
 #endif
         {
           // wing, instead of wrap
-          screen.cur.row += nrow - prev_nrow;
+          // screen.cur.row += nrow - prev_nrow;
 
           do
             {
